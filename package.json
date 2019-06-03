@@ -5,6 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "jest --env=node",
+    "test-watch": "jest --env=node --watch",
     "webpack": "webpack",
     "webpack-watch": "webpack --watch"
   },
